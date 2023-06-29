@@ -7,3 +7,5 @@ Steps# gin-editor
 --go run main.go migrate 
 
 --go run main.go serve
+
+- port: "5500"
