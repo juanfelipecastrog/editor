@@ -1,9 +1,9 @@
 package bootstrap
 
 import (
-	"gold/config"
-	"gold/internal/api"
-	"gold/internal/db"
+	"editor/config"
+	"editor/internal/api"
+	"editor/internal/db"
 )
 
 func Serve() {

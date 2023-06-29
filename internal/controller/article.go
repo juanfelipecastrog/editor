@@ -1,9 +1,9 @@
 package controller
 
 import (
+	"editor/internal/db"
+	"editor/internal/model"
 	"github.com/gin-gonic/gin"
-	"gold/internal/db"
-	"gold/internal/model"
 	"net/http"
 )
 

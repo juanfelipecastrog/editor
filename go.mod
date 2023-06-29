@@ -1,4 +1,4 @@
-module gold
+module editor
 
 go 1.20
 

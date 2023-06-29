@@ -1,8 +1,8 @@
 package db
 
 import (
+	"editor/config"
 	"fmt"
-	"gold/config"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"log"

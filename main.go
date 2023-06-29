@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gold/cmd"
+	"editor/cmd"
 )
 
 func main() {

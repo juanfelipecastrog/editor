@@ -1,8 +1,8 @@
 package bootstrap
 
 import (
-	"gold/config"
-	"gold/internal/db"
+	"editor/config"
+	"editor/internal/db"
 )
 
 func Migrate() {

@@ -1,8 +1,8 @@
 package db
 
 import (
+	"editor/internal/model"
 	"fmt"
-	"gold/internal/model"
 	"log"
 )
 

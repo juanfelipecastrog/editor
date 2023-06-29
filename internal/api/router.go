@@ -1,12 +1,12 @@
 package api
 
 import (
+	"editor/config"
+	"editor/internal/controller"
+	"editor/internal/html"
+	"editor/internal/static"
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"gold/config"
-	"gold/internal/controller"
-	"gold/internal/html"
-	"gold/internal/static"
 )
 
 type Server struct {

@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"gold/internal/bootstrap"
+	"editor/internal/bootstrap"
 
 	"github.com/spf13/cobra"
 )
