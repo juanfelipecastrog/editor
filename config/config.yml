@@ -1,0 +1,13 @@
+app:
+  name: "Editor"
+
+server:
+  host: "localhost"
+  port: "5500"
+
+db:
+  name: "editor"
+  username: "root"
+  password: ""
+  host: "127.0.0.1"
+  port: "3306"
